@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Manish Jha
-- 👀 I’m interested in Embedded System Development.
-- 🌱 I’m currently learning linux kernel and LKM. 
-- 💞️ I’m looking to collaborate on linux.
+- 👀 I’m interested in Embedded System firmware Development.
 - 📫 To reach me email manish.jha0305@gmail.com.
 
 <!---
